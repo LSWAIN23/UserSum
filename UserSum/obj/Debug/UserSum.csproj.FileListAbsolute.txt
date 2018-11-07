@@ -1,0 +1,7 @@
+C:\Users\Swain's\Desktop\SoloProj\UserSum\UserSum\bin\Debug\UserSum.exe.config
+C:\Users\Swain's\Desktop\SoloProj\UserSum\UserSum\bin\Debug\UserSum.exe
+C:\Users\Swain's\Desktop\SoloProj\UserSum\UserSum\bin\Debug\UserSum.pdb
+C:\Users\Swain's\Desktop\SoloProj\UserSum\UserSum\obj\Debug\UserSum.csprojAssemblyReference.cache
+C:\Users\Swain's\Desktop\SoloProj\UserSum\UserSum\obj\Debug\UserSum.csproj.CoreCompileInputs.cache
+C:\Users\Swain's\Desktop\SoloProj\UserSum\UserSum\obj\Debug\UserSum.exe
+C:\Users\Swain's\Desktop\SoloProj\UserSum\UserSum\obj\Debug\UserSum.pdb
